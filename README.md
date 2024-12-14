@@ -1,1 +1,1 @@
-# INSE6220
+# Project analysis and code execution with dataset for INSE6220
